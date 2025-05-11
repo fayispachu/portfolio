@@ -1,6 +1,6 @@
 import React from "react";
 
-function About() {
+function Home() {
   return (
     <>
       <div className="w-[100%] h-[90vh] bg-black flex flex-row ">
@@ -35,4 +35,4 @@ function About() {
   );
 }
 
-export default About;
+export default Home;
